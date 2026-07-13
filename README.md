@@ -256,20 +256,6 @@ This project helped me gain practical experience in:
 
 ---
 
-# Screenshots
-
-Add screenshots of:
-
-- Dashboard
-- Expense List
-- Add Expense
-- Edit Expense
-- Filtering
-- Search
-- Delete Confirmation
-
----
-
 # Acknowledgements
 
 This project is based on the original Monthly Expenses application created by **KDProgramming**.
@@ -282,9 +268,9 @@ Major architectural improvements, CRUD functionality, dashboard development, fil
 
 # Author
 
-**Your Name**
+**S. Falak Gul**
 
 Software Engineering Student
 
 GitHub:
-https://github.com/YourUsername
+https://github.com/FalakGul
