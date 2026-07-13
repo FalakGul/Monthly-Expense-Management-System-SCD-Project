@@ -1,2 +1,2 @@
 # Expense-Management-System-SCD-Project
-Reconstructed and enhanced Vehicle Expense Management System with improved UI, optimized code, bug fixes, and additional features. Developed as part of a Software Construction and Development course.
+This project is a reconstructed and significantly extended version of the original Monthly Expenses application. The original project focused on calculating vehicle-related expenses, whereas this version redesigns the application into a complete Monthly Expense Management System with full CRUD functionality, dashboard analytics, filtering, improved UI, defensive programming, and software quality improvements.
